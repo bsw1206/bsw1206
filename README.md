@@ -1,5 +1,6 @@
 # SSAFY에서의 삶 👋
-### 😄😄😄😄😄😄
+### <img width="1268" height="1415" alt="image" src="https://github.com/user-attachments/assets/8f89e63d-bd90-472b-9549-1e5c35fa22d7" />
+
 <!--
 **bsw1206/bsw1206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
