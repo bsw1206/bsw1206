@@ -1,4 +1,4 @@
-## Hi there 👋
+# 승우의 보잘 것 없는 SSAFY에서의 삶 👋
 
 <!--
 **bsw1206/bsw1206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
