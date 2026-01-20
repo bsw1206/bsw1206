@@ -1,7 +1,7 @@
 # SSAFY에서의 삶 👋
-목표 : 
+1학기 목표 : 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=toysw1206)](https://solved.ac/toyw1206) <- 골드 찍기
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=toysw1206)](https://solved.ac/toyw1206)  <- 골드 찍기
 
 **bsw1206/bsw1206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
