@@ -2,7 +2,7 @@
 
 ## 🔍 TIL_Python(SSAFY에서의 학습을 기록하는 공간)
 <div align="center">
-  <h3></h3></H3>[TIL_Python](https://github.com/bsw1206/TIL_python)</h3>
+  <h3>[TIL_Python](https://github.com/bsw1206/TIL_python)</h3>
 </div>
 <div>
   <h3>데이터가 흐르는 길을 설계하는 Data Engineer</h3>
