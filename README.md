@@ -1,5 +1,8 @@
 # Baek Seung-woo 👋
 
+## 🔍 TIL_Python
+### [TIL_Python](https://github.com/bsw1206/TIL_python)
+
 <div>
   <h3>데이터가 흐르는 길을 설계하는 Data Engineer</h3>
   <p>단순한 개발을 넘어, 대규모 트래픽과 데이터를 안정적으로 처리하는 <b>클라우드 인프라와 파이프라인 구축</b>에 도전하고 있습니다. <br>모빌리티 및 스마트팩토리 도메인에서 가치를 창출하는 엔지니어를 목표로 합니다.</p>
@@ -129,10 +132,7 @@ graph LR
 
 <br>
 
-## 🔍 나의 TIL_Python
-[TIL_Python](https://github.com/bsw1206/TIL_python)
 
-<br>
 
 
 ## 🤝 Git Collaboration Workflow
