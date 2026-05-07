@@ -159,7 +159,7 @@ graph LR
 
 ---
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bsw1206&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bsw1206&show_icons=true&theme=radical" />
 </div>
 
 
