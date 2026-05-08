@@ -76,7 +76,7 @@ graph LR
                 B3["Broker 3"]
             end
             
-            subgraph Spark_Hadoop ["Spark & Hadoop"]
+            subgraph Spark_Hadoop ["Spark & Hadoop 🚧 (Learning)"]
                 Spark["Spark Streaming"]
                 YARN["Hadoop YARN"]
             end
@@ -89,14 +89,17 @@ graph LR
     Prometheus -.->|"Scrape Metrics"| B3
     Grafana -->|"Query"| Prometheus
     
-    B1 ==>|"Stream Data"| Spark
-    B2 ==>|"Stream Data"| Spark
-    B3 ==>|"Stream Data"| Spark
-    Spark -->|"Resource Allocation"| YARN
+    %% 학습 중인 파트로 넘어가는 화살표를 점선(-.->)으로 변경하고 문구 추가
+    B1 -.->|"Stream Data<br/>(Learning)"| Spark
+    B2 -.->|"Stream Data<br/>(Learning)"| Spark
+    B3 -.->|"Stream Data<br/>(Learning)"| Spark
+    Spark -.->|"Resource Allocation"| YARN
 
     style Kafka_Cluster fill:#f9f9f9,stroke:#333,stroke-width:2px
     style Public_Subnet fill:#e6f7ff,stroke:#0099ff,stroke-width:2px
     style Private_Subnet fill:#f0f9eb,stroke:#67c23a,stroke-width:2px
+    %% 학습 중인 영역을 노란색 점선 테두리로 시각화
+    style Spark_Hadoop fill:#fffbe6,stroke:#faad14,stroke-width:2px,stroke-dasharray: 5 5
 ```
 <br>
 
