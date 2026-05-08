@@ -36,16 +36,21 @@
 ## Backjoon Tier
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=toysw1206)](https://solved.ac/toyw1206)  
 <br>
-## 🛠️ Tech Stack (Learning)
+## 🛠️ Tech Stack 
 <div align="left">
+  <h3>Intermdediate</h3>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
   <br>
+  <h3>Beginner</h3>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white">
   <img src="https://img.shields.io/badge/Confluent%20Kafka-000000?style=flat-square&logo=confluent&logoColor=white">
   <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Hadoop%20YARN-FFFF00?style=flat-square&logo=apachehadoop&logoColor=black">
+  <img src="https://img.shields.io/badge/Hive%20Metastore-FDEE21?style=flat-square&logo=apachehive&logoColor=black">
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white">
 </div>
 
 <br>
