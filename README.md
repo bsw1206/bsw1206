@@ -38,12 +38,12 @@
 <br>
 ## 🛠️ Tech Stack 
 <div align="left">
-  <h3>Intermdediate</h3>
+  <h3>(Intermdediate)</h3>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
   <br>
-  <h3>Beginner</h3>
+  <h3>(Beginner)</h3>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white">
   <img src="https://img.shields.io/badge/Confluent%20Kafka-000000?style=flat-square&logo=confluent&logoColor=white">
